@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Home Page](https://drive.google.com/uc?id=1ayxhKGDHtysZPMqti6k4ZY072nm3I3MZ)
+![Home Page](https://drive.google.com/drive/u/0/folders/1V_Oob_gjW3cWXCQHQmUTeeFT3FhJK6YK)
 
     A music app made with the help of React.js.
     
