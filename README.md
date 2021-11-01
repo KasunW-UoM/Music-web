@@ -1,5 +1,5 @@
 <h1 align="center">
-   Vusic | The music destination you want.
+   Kasun Music| The Best Song in the World.
 </h1>
 
 <div align="center">
@@ -23,8 +23,8 @@
 
 ## Attribution
     
-[Icons](www.flaticon.com) made by Freepikfrom 
+[Icons](www.kasunweerasekara.tech) made by Kasun Weerasekara
 
-[Music](https://ncs.io/music) by NCS
+[Music](https://github.com/KasunW-UoM) by KMW
 
     Please make sure you fork the repository
